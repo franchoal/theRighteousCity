@@ -1,0 +1,14 @@
+table{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid blueviolet;
+    /* justify-content: center; */
+    justify-self: center;
+    margin-left: 120px;
+
+}
+th, td, tr {
+    border: 1px solid pink;
+}
+h3{
+ margin-left: 120px;
+}
